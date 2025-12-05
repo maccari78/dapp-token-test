@@ -23,3 +23,6 @@ To run the project locally, follow these steps:
 - **npm install --legacy-peer-deps**
 - **npm run start**
 
+<img width="1378" height="1058" alt="Screenshot from 2025-12-05 11-23-30" src="https://github.com/user-attachments/assets/653a2668-4d06-42d3-8447-3dcabeea3a05" />
+  
+
