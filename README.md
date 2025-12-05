@@ -24,5 +24,10 @@ To run the project locally, follow these steps:
 - **npm run start**
 
 <img width="1378" height="1058" alt="Screenshot from 2025-12-05 11-23-30" src="https://github.com/user-attachments/assets/653a2668-4d06-42d3-8447-3dcabeea3a05" />
+<img width="1378" height="1058" alt="Screenshot from 2025-12-05 11-23-34" src="https://github.com/user-attachments/assets/ba722887-b872-46ca-b0b5-a737d097a2c3" />
+<img width="1378" height="1058" alt="Screenshot from 2025-12-05 11-23-41" src="https://github.com/user-attachments/assets/2ecf51e6-6722-47d2-91d7-30f8ae6561cc" />
+<img width="1378" height="1058" alt="Screenshot from 2025-12-05 11-23-44" src="https://github.com/user-attachments/assets/a9accca6-46ea-4119-baaf-314182ac1e3b" />
+
+
   
 
